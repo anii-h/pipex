@@ -6,11 +6,11 @@
 /*   By: anihamba <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 13:57:27 by anihamba          #+#    #+#             */
-/*   Updated: 2025/08/04 13:57:29 by anihamba         ###   ########.fr       */
+/*   Updated: 2026/02/03 14:51:31 by anihamba         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "pipex.h"
+#include "../includes/pipex.h"
 
 void	ch_prc1(t_data *data)
 {

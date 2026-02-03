@@ -6,7 +6,7 @@
 /*   By: anihamba <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 13:57:33 by anihamba          #+#    #+#             */
-/*   Updated: 2025/08/04 13:57:35 by anihamba         ###   ########.fr       */
+/*   Updated: 2026/02/03 14:50:59 by anihamba         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
 # include <sys/types.h>
 # include <sys/wait.h>
 # include <fcntl.h>
-# include "libft/libft.h"
+# include "../lib/libft/libft.h"
 
 typedef struct s_data
 {

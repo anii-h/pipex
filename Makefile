@@ -1,6 +1,6 @@
 NAME = pipex
 
-LIBFT = libft
+LIBFT = ./lib/libft
 
 CC = cc
 
@@ -10,7 +10,7 @@ RM = rm -f
 
 AR = ar rcs
 
-SRCS = pipex.c pipex_utils.c init.c
+SRCS = pipex.c ./src/pipex_utils.c ./src/init.c
 
 OBJS = $(SRCS:.c=.o)
 

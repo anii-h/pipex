@@ -6,11 +6,11 @@
 /*   By: anihamba <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 13:57:51 by anihamba          #+#    #+#             */
-/*   Updated: 2025/08/04 13:57:54 by anihamba         ###   ########.fr       */
+/*   Updated: 2026/02/03 14:51:34 by anihamba         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "pipex.h"
+#include "../includes/pipex.h"
 
 void	clear_path(char **path)
 {
